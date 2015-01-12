@@ -5,7 +5,7 @@ If you want to know more about the details, you can link [here] (http://www.oscg
 
 ##Description
 The development of the financial statements is to provide enterprises can be easily extended report way, for enterprises in the multifarious report content to see the key parts of the business data of the company.<br>
-Because there are all kinds of report format, single statements may only support a particular format printing format, brought enterprise restriction and inconvenience.<br>
+Because there are all kinds of report format, single statements may only support a particular printing format, brought enterprise restriction and inconvenience.<br>
 OSCG designed this report in order to solve this problem.<br>
 
 ##User Instructions
