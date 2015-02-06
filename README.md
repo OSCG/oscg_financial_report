@@ -7,6 +7,7 @@ The aim of this project is to provide a professional, the financial statements o
 The development of the financial statements is to provide enterprises can be easily extended report way, for enterprises in the multifarious report content to see the key parts of the business data of the company.<br>
 Because there are all kinds of report format, single statements may only support a particular printing format, brought enterprise restriction and inconvenience.<br>
 OSCG designed this report in order to solve this problem.<br>
+You will have by default the Balance Sheet and Profit Loss Report but you can design your own reports using the Financial Report function in Odoo<br>
 
 ##User Instructions
 If you want to use the report module, users should install Aeroo module in the server and OpenERP as well as Openoffice related plug-in.<br>
