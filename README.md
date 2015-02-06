@@ -11,7 +11,7 @@ You will have by default the Balance Sheet and Profit Loss Report but you can de
 
 ##User Instructions
 If you want to use the report module, users should install Aeroo module in the server and OpenERP as well as Openoffice related plug-in.<br>
-If you need some helps, link [here] (http://www.oscg.com.hk/) to learn.
+If you need some helps, contact us [here] (http://www.oscg.com.hk/contact/).
 
 
 
