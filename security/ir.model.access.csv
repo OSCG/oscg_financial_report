@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_accounting_report_1,accounting.report,model_accounting_report,oscg_financial_report.account_report_group,1,1,1,1
