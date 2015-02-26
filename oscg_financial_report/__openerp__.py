@@ -3,7 +3,7 @@
 {
     'name': 'OSCG Financial Report',
     'version': '1.0',
-    "category" : "Generic Modules/Report",
+    "category" : "Accounting & Finance",
     'description': """
 OSCG Financial Report -Aeroo
 ==========================
